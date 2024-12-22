@@ -42,20 +42,19 @@ Demonstrar a configuração de um ambiente controlado para capturar credenciais 
 ## Resultados
 
 - **Simulação bem-sucedida:** O ambiente controlado foi configurado corretamente, permitindo a coleta de dados simulados.
-- **Imagens demonstrativas:** (Substituir por capturas de tela genéricas do processo, sem dados sensíveis.)
+- **Imagens demonstrativas:** Está no outro arquivo do repositório
 
 ---
 
 ## Aviso Legal
 
 Este material é destinado exclusivamente para fins educacionais em ambientes controlados. **Não deve ser utilizado para práticas maliciosas.**  
-O autor e a instituição de ensino não se responsabilizam por qualquer uso inadequado ou fora do escopo do curso.
+O autor não se responsabilizam por qualquer uso inadequado.
 
 ---
 
 ## Observações
 
-- O método de configuração padrão não funcionou devido a limitações no ambiente. Foi utilizada uma abordagem alternativa com a opção de importação personalizada do SEToolkit.
 - Detalhes técnicos e arquivos sensíveis foram omitidos para preservar a segurança e conformidade com legislações de cibersegurança.
 
 ---
